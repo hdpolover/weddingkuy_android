@@ -17,6 +17,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.KamiMomen"
         android:usesCleartextTraffic="true">
+        <activity android:name=".NavLokasiActivity"></activity>
         <activity android:name=".TentangAplikasiActivity" />
         <activity android:name=".DetailLokasiActivity" />
         <activity android:name=".ArahLokasiActivity" />
