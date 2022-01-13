@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!-- Settings, should always be in the overflow -->
+    <item android:id="@+id/loginAdminMenu"
+        android:title="Login Admin"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/scanMenu"
+        android:title="Scan Kode QR"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/aboutMenu"
+        android:title="Tentang Aplikasi"
+        app:showAsAction="never"/>
+</menu>
